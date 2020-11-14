@@ -10,5 +10,3 @@ admin.site.register(Books)
 admin.site.register(Issues)
 
 
-"username - falguhardi07"
-"password - ymmB6BQ8"
